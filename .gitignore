@@ -1,2 +1,11 @@
 venv
 .idea
+.idea/.gitignore
+.idea/inspectionProfiles
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Python-Django-web-site-with-data-structures-and-algorithm-analysis.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
